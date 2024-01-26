@@ -10,8 +10,8 @@ body
     font-family: 'Raleway', sans-serif;
     background-color: var(--black);
     color: var(--white);
-    font-weight: lighter;
-    opacity: 3;
+
+    opacity: 6;
 }
 
 .navbar-brand 
